@@ -1,5 +1,5 @@
 # gym-training-guide
-#In this code you find a file writing code with the time
+
 import datetime
 def gettime():
     return datetime.datetime.now()
